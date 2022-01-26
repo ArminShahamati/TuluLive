@@ -52,5 +52,3 @@ Usage of ./livego:
       --read_timeout int      read time out (default 10)
       --rtmp_addr string      RTMP server listen address
 ```
-
-### [Use with flv.js](https://github.com/arminshahamati/blog/issues/3)
