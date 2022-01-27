@@ -14,7 +14,7 @@ Simple and efficient live broadcast server:
 - TS
 
 #### Supported encoding formats
-- H264
+- H265
 - AAC
 - MP3
 
