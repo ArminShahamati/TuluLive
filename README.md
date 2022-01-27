@@ -19,7 +19,7 @@ Simple and efficient live broadcast server:
 - MP3
 
 ## Installation
-After directly downloading the compiled [binary file](https://github.com/arminshahamati/livego/releases), execute it on the command line.
+After directly downloading the compiled [binary file](https://github.com/arminshahamati/tululive/releases), execute it on the command line.
 
 #### Boot from Docker
 Run `docker run -p 1935:1935 -p 7001:7001 -p 7002:7002 -p 8090:8090 -d arminshahamati/livego` to start
